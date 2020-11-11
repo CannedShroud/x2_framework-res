@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="global_action_emergency">Appel d’urgence</string>
+    <string name="permlab_install_shortcut">installer des raccourcis</string>
+    <string name="permlab_readSyncStats">lecture des statistiques de synchronisation</string>
+    <string name="sms">Message</string>
+    <string name="zen_mode_default_every_night_name">Veille</string>
+</resources>

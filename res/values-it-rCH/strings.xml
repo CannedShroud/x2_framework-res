@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="emergency_calls_only">"Solo chiamate d'emergenza"</string>
+    <string name="global_action_emergency">"Chiamata d'emergenza"</string>
+    <string name="sms">Messaggio</string>
+    <string name="zen_mode_default_every_night_name">Sonno</string>
+</resources>

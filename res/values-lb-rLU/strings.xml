@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Ofbriechen</string>
+    <string name="android_upgrading_apk">%1$d| %2$d| Neie System gëtt virbereet, waart w. e. g. …</string>
+    <string name="android_upgrading_complete">Start gëtt ofgeschloss</string>
+    <string name="android_upgrading_starting_apps">Start gëtt ofgeschloss</string>
+    <string name="byteShort">B</string>
+    <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+    <string name="date_time">%1$s, %2$s</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="kg_login_password_hint">Passcode</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_carrier_default">Kee Service</string>
+    <string name="lockscreen_glogin_password_hint">Passcode</string>
+    <string name="megabyteShort">MB</string>
+    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+    <string name="notification_hidden_text">Eragoen, fir den Inhalt vum Message unzeweisen</string>
+    <string name="perms_new_perm_prefix">NEI:</string>
+    <string name="petabyteShort">PB</string>
+    <string name="terabyteShort">TB</string>
+    <string name="tethered_notification_message">Tippen, fir anzeriichten</string>
+    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string name="vpn_text_long">"Verbonne mat %s, tippen, fir d'Netzwierk ze verwalten."</string>
+    <string name="zen_mode_default_every_night_name">Schlofen</string>
+</resources>

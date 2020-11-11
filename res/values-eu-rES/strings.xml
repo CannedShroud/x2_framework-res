@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cut">Ebaki</string>
+    <string name="paste">Itsatsi</string>
+    <string name="search_go">Bilatu</string>
+    <string name="selectAll">Hautatu guztiak</string>
+    <string name="byteShort">B</string>
+    <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+    <string name="date_time">%1$s, %2$s</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="ime_action_search">Bilatu</string>
+    <string name="kg_login_password_hint">Ezkutuko kodea</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_glogin_password_hint">Ezkutuko kodea</string>
+    <string name="megabyteShort">MB</string>
+    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+    <string name="notification_hidden_text">Sartu mezuaren edukia ikusteko</string>
+    <string name="petabyteShort">PB</string>
+    <string name="searchview_description_search">Bilatu</string>
+    <string name="sms">Mezua</string>
+    <string name="terabyteShort">TB</string>
+    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string name="zen_mode_default_every_night_name">Lo hartutako ordua</string>
+</resources>

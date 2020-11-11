@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="byteShort">B</string>
+    <string name="date_and_time" formatted="false">%-l:%M:%S %p %d-%m-%Y</string>
+    <string name="date_time">%2$s %1$s</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="megabyteShort">MB</string>
+    <string name="month_day_year" formatted="false">%-e %B %Y</string>
+    <string name="petabyteShort">PB</string>
+    <string name="terabyteShort">TB</string>
+    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+</resources>

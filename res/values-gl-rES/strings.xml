@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Cancelar</string>
+    <string name="android_upgrading_apk">%1$d| %2$d| preparando novo sistema, agarda …</string>
+    <string name="android_upgrading_complete">Final. arranque...</string>
+    <string name="android_upgrading_starting_apps">Final. arranque...</string>
+    <string name="byteShort">B</string>
+    <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+    <string name="date_time">%1$s, %2$s</string>
+    <string name="date_time_set">Configuración</string>
+    <string name="ext_media_init_action">Configuración</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="global_action_emergency">Cham. emerx.</string>
+    <string name="global_action_settings">Configuración</string>
+    <string name="kg_login_password_hint">Código acceso</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_carrier_default">Sen serv.</string>
+    <string name="lockscreen_glogin_password_hint">Código acceso</string>
+    <string name="media_route_chooser_extended_settings">Configuración</string>
+    <string name="megabyteShort">MB</string>
+    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+    <string name="perm_costs_money">Pode supoñer gastos adicionais</string>
+    <string name="permlab_accessNetworkState">Ver conexión de rede</string>
+    <string name="permlab_bluetooth">Vincular disp. con Bluetooth</string>
+    <string name="permlab_broadcastSticky">Env. transmisión delic.</string>
+    <string name="permlab_camera">Sacar vídeos e imaxes</string>
+    <string name="permlab_readPhoneState">Ler estado e identidade do tel.</string>
+    <string name="permlab_vibrate">Vibración de control</string>
+    <string name="perms_new_perm_prefix">NOVO:</string>
+    <string name="petabyteShort">PB</string>
+    <string name="policydesc_wipeData">Borrar os datos do teléfono sen notificación mediante o restablecemento dos datos de fábrica.</string>
+    <string name="sms">Mensaxe</string>
+    <string name="terabyteShort">TB</string>
+    <string name="tethered_notification_message">Toca para config.</string>
+    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string name="vpn_text_long">Conectado a %s, toca para xestionar a rede</string>
+    <string name="zen_mode_default_every_night_name">Durm.</string>
+</resources>

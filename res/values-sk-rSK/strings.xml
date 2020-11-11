@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Zrušiť</string>
+    <string name="cut">Vystrihnúť</string>
+    <string name="paste">Prilepiť</string>
+    <string name="selectAll">Vyb. vš.</string>
+    <string name="byteShort">B</string>
+    <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+    <string name="date_time">%1$s, %2$s</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="global_action_emergency">Núdzový hovor</string>
+    <string name="kg_login_password_hint">Heslo</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_glogin_password_hint">Heslo</string>
+    <string name="megabyteShort">MB</string>
+    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+    <string name="notification_hidden_text">Vstúpte na zobrazenie obsahu správy</string>
+    <string name="perm_costs_money">Môžu sa účtovať poplatky</string>
+    <string name="petabyteShort">PB</string>
+    <string name="sms">Správa</string>
+    <string name="terabyteShort">TB</string>
+    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string name="zen_mode_default_every_night_name">Spánok</string>
+</resources>

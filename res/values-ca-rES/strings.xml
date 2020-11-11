@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Cancel·la</string>
+    <string name="cut">Retalla</string>
+    <string name="paste">Enganxa</string>
+    <string name="selectAll">Selecciona-ho tot</string>
+    <string name="byteShort">B</string>
+    <string name="capability_title_canRequestFilterKeyEvents">Observar el text que escriviu</string>
+    <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+    <string name="date_time">%1$s, %2$s</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="global_action_emergency">"Trucada d'emergència"</string>
+    <string name="kg_login_password_hint">"Clau d'accés"</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_glogin_password_hint">"Clau d'accés"</string>
+    <string name="megabyteShort">MB</string>
+    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+    <string name="notification_hidden_text">Entreu per visualitzar el contingut del missatge</string>
+    <string name="permlab_getTasks">recuperar les aplicacions en execució</string>
+    <string name="permlab_recordAudio">enregistrar àudio</string>
+    <string name="petabyteShort">PB</string>
+    <string name="policylab_disableKeyguardFeatures">Desactiva funcions de bloqueig</string>
+    <string name="policylab_forceLock">Bloqueja la pantalla</string>
+    <string name="policylab_resetPassword">Canvia el bloqueig de pantalla</string>
+    <string name="policylab_wipeData">Esborra totes les dades</string>
+    <string name="sms">Missatge</string>
+    <string name="terabyteShort">TB</string>
+    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string name="zen_mode_default_every_night_name">Mode de repòs</string>
+</resources>

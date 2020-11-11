@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Peruuta</string>
+    <string name="cut">Leikkaa</string>
+    <string name="paste">Liitä</string>
+    <string name="selectAll">Kaikki</string>
+    <string name="byteShort">B</string>
+    <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+    <string name="date_time">%1$s, %2$s</string>
+    <string name="emailTypeHome">Koti</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="global_action_emergency">Hätäpuhelu</string>
+    <string name="kg_login_password_hint">Salasana</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lockscreen_glogin_password_hint">Salasana</string>
+    <string name="megabyteShort">MB</string>
+    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+    <string name="notification_hidden_text">Syötä nähdäksesi viestin sisällön</string>
+    <string name="permgrouplab_contacts">Yhteystiedot</string>
+    <string name="petabyteShort">PB</string>
+    <string name="policydesc_forceLock">Hallinnoi, milloin ja miten näyttö lukittuu.</string>
+    <string name="policylab_forceLock">Lukita ruudun</string>
+    <string name="policylab_resetPassword">muuttaa näytön lukituksen</string>
+    <string name="policylab_wipeData">pyyhkiä kaikki tiedot</string>
+    <string name="relationTypeManager">Esimies</string>
+    <string name="sms">Viesti</string>
+    <string name="terabyteShort">TB</string>
+    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string name="zen_mode_default_every_night_name">Lepotila</string>
+</resources>
